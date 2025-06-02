@@ -1,7 +1,7 @@
 Random Projects listed
 
-Nueral Networks
+Experimentation with Nueral Networks
 
 assembly code to print a simple hello world 
 
-experimentation with python sockets api
+
